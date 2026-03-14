@@ -51,7 +51,7 @@
 ## 🌐 Connect With Me
 
 🌍 Portfolio: https://my-portfolio-o5sn.vercel.app/  
-📧 Email: srujanpoojari22gmail.com  
+📧 Email: srujanpoojari2@gmail.com  
 💼 LinkedIn: https://www.linkedin.com/feed/
 
 ---
