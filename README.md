@@ -1,61 +1,84 @@
-<!-- CYBERPUNK HEADER -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Srujan+Poojari;Cyberpunk+Developer+⚡;Future+AI+%2F+ML+Enthusiast;Computer+Engineering+Student+🎓" />
-</h1>
+# 👋 Hi, I'm Srujan!
+
+<!-- 🔥 Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;AI%2FML+Enthusiast;Building+Scalable+Projects;Future+Tech+Explorer+🚀" />
+</p>
 
 ---
 
-## 👨‍💻 About Me
-
-🎓 Computer Engineering Student (Graduation: 2028)  
-🏫 Studying at **St. John College of Engineering and Management**  
-🧠 Currently strengthening **DSA** in C, C++, Java  
-⚡ Learning Python deeply & exploring MERN Stack  
-🤖 Future AI / ML Enthusiast or Data Scientist  
-
----
-
-## 🚀 Tech Stack
-
-### 💻 Programming
-![C](https://img.shields.io/badge/C-0A0A0A?style=for-the-badge&logo=c&logoColor=00F7FF)
-![C++](https://img.shields.io/badge/C++-0A0A0A?style=for-the-badge&logo=c%2B%2B&logoColor=00F7FF)
-![Java](https://img.shields.io/badge/Java-0A0A0A?style=for-the-badge&logo=java&logoColor=00F7FF)
-![Python](https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=00F7FF)
-
-### 🌐 Web & Frameworks
-![React](https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react&logoColor=00F7FF)
-![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript&logoColor=00F7FF)
-![Tkinter](https://img.shields.io/badge/Tkinter-0A0A0A?style=for-the-badge&logo=python&logoColor=00F7FF)
+## 🌟 About Me
+- 💻 Passionate **MERN Stack Developer**
+- 🤖 Exploring **AI/ML + Real-world problem solving**
+- 🎓 Engineering Student at *St. John College of Engineering and Management*
+- 📚 Basic knowledge of **DSA**
+- ⚡ Love building **scalable & impactful projects**
 
 ---
 
-## 🌌 Cyberpunk Goals
+## 🛠️ Tech Stack
 
-⚡ Master Data Structures & Algorithms  
-⚡ Become MERN Stack Developer  
-⚡ Explore Artificial Intelligence & Machine Learning  
-⚡ Build impactful real-world tech  
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,java,python,c,cpp" />
+</p>
+
+### 🌐 Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
+</p>
+
+### ⚙️ Tools & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
+</p>
+
+- 🚀 Antigravity
+
+---
+
+## 🤖 AI / ML Interest
+- Machine Learning Basics
+- AI-powered Web Apps
+- Automation Tools
+- Future goal: Build **real-world AI solutions**
+
+---
+
+## 📌 Projects
+🚧 Coming Soon...
+
+- 🔹 Project 1 - Description  
+- 🔹 Project 2 - Description  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🧠 Badges
+
+<p>
+  <img src="https://img.shields.io/badge/MERN-Stack-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI-ML-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning-Everyday-yellow?style=for-the-badge" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
-
-🌍 Portfolio: https://my-portfolio-o5sn.vercel.app/  
-📧 Email: srujanpoojari2@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/feed/
+- 📧 Email: your-email@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/YOUR_PROFILE
+- 🌍 Portfolio: Coming Soon...
 
 ---
 
-## 🧠 Quote
-
-> “Code in the dark. Shine in the future.” ⚡
+## ⚡ Fun Fact
+I don’t just code… I build **future-ready solutions** 🚀
