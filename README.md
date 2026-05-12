@@ -18,7 +18,7 @@
 
 ## 🛠️ Tech Stack
 <p>
-  <img src="https://logos-download.com/brands/google-antigravity">
+  <img src="[https://logos-download.com/brands/google-antigravity](https://brandlogos.net/wp-content/uploads/2025/12/google_antigravity-logo_brandlogos.net_qu4jc-768x708.png)">
 </p>
 ### 💻 Languages
 <p>
