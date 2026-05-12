@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Srujan! A ANTIGRAVITY ENTHUSIAST
+# 👋 Hi, I'm Srujan! AI/ML ENTHUSIAST
 
 <!-- 🔥 Typing Animation -->
 <p align="center">
