@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Srujan!
+# 👋 Hi, I'm Srujan! A ANTIGRAVITY ENTHUSIAST
 
 <!-- 🔥 Typing Animation -->
 <p align="center">
@@ -17,7 +17,9 @@
 ---
 
 ## 🛠️ Tech Stack
-
+<p>
+  <img src="https://logos-download.com/brands/google-antigravity">
+</p>
 ### 💻 Languages
 <p>
   <img src="https://skillicons.dev/icons?i=js,java,python,c,cpp" />
